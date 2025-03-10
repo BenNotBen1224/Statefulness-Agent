@@ -1,0 +1,16 @@
+# Core dependencies
+langchain>=0.0.267
+chromadb>=0.4.6
+sqlalchemy>=2.0.0
+
+# Embedding and LLM dependencies
+openai>=1.0.0
+sentence-transformers>=2.2.2
+
+# Utility dependencies
+numpy>=1.24.0
+pandas>=2.0.0
+tqdm>=4.65.0
+
+# Optional visualization
+matplotlib>=3.7.0 
